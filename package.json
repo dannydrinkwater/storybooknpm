@@ -4,7 +4,7 @@
   "files": [
     "build"
   ],
-  "main": "dist/index.js",
+  "main": "build/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
